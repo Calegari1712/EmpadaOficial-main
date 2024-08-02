@@ -1,0 +1,221 @@
+.container {
+    background-color: #FFB74D;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+
+}
+
+h1{
+    color: rgb(255, 153, 0);
+    text-align: center;
+
+}
+
+.color-title{
+    color: rgb(255, 153, 0);
+    text-align: center;
+    margin-top: 20px;
+}
+
+body{
+    font-family: Arial,sans-serif;
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.rodape{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: rgb(243, 183, 71);
+}
+
+.link{
+    text-decoration: none;
+}
+
+
+.card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 35px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 200px;
+    width: 600px;
+    border-radius: 25% 10%;
+}
+
+.cardsobrenos {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 800px;
+    width: 600px;
+    border-radius: 25% 10%;
+}
+
+.cardcardapio {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 1500px;
+    width: 700px;
+    border-radius: 25%;
+}
+
+.separacao {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.autores {
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.2);
+    border-radius: 50%;
+}
+
+.esquerda {
+    margin-left: 100px;
+}
+
+.direita {
+    margin-left: 100px;
+}
+
+.esquerda1 {
+    margin-left: 110px;
+}
+
+.direita2 {
+    margin-left: 120px;
+}
+
+.card-empada {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.tabela {
+    border: 1px solid gray;
+    padding: 5px;
+    text-align: center;
+}
+
+.tabelaPrincipal {
+    border-collapse: collapse;
+    width: 95%;
+    margin: auto;
+    
+}
+
+.tabelaCima {
+    border: 1px solid gray;
+    padding: 5px;
+    text-align: center;
+    background-color: #FFB74D;
+}
+
+.contatoDescricao {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cardcontato {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 600px;
+    width: 700px;
+    border-radius: 25%;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#nome {
+    margin: auto;
+    height: 35px;
+    font-size: 18px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#email {
+    margin: auto;
+    height: 35px;
+    font-size: 18px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#telefone {
+    margin: auto;
+    height: 35px;
+    font-size: 18px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#botao {
+    background-color: #FFB74D;
+    margin: auto;
+    height: 35px;
+    font-size: 18px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.cardcontato2 {
+    box-shadow: 0 0px 8px 0 rgba(11, 238, 30, 0.2);
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+
