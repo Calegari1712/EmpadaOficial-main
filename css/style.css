@@ -226,3 +226,9 @@ label {
     margin-left: 8%;
 }
 
+@media (max-width: 600px) {
+    iframe {
+      width: 350px;
+     height: 200px;
+    }
+  }
